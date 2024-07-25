@@ -1,10 +1,10 @@
 ## Hey there, I'm Tanish!
 
-![Math + CS](https://img.shields.io/badge/Math%20%2B%20CS-Brown%20University-blue?style=for-the-badge&labelColor=white&color=422006) 
+![Math + CS](https://img.shields.io/badge/Math%20%2B%20CS-Brown%20University-blue?style=for-the-badge&labelColor=white&color=4e3629) 
 
 I'm an undergraduate student at Brown University who's fascinated by computers, math, and the night sky ✨. You can find out more about me on my personal website, [tanishmakadia.com](https://tanishmakadia.com).
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tanish-makadia) [![X Badge](https://img.shields.io/badge/(formerly_Twitter)-3f3f46?style=flat-square&logo=x&logoColor=white)](https://twitter.com/tanishmakadia) [![MacOS Dotfiles](https://img.shields.io/badge/macOS%20dotfiles-e5e7eb?style=flat-square&logo=apple&logoColor=black)](https://github.com/starboi-63/dotfiles)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tanish-makadia) [![MacOS Dotfiles](https://img.shields.io/badge/macOS%20dotfiles-3f3f46?style=flat-square&logo=apple&logoColor=white)](https://github.com/starboi-63/dotfiles)
 
 <!--
 **starboi-63/starboi-63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
