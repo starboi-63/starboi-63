@@ -1,6 +1,6 @@
 ## Hey there, I'm Tanish!
 
-![Math + CS](https://img.shields.io/badge/Math%20%2B%20CS-Brown%20University-blue?style=for-the-badge&labelColor=white&color=4e3629) 
+![CS + Math](https://img.shields.io/badge/Math%20%2B%20CS-Brown%20University-blue?style=for-the-badge&labelColor=white&color=4e3629) 
 
 I'm a junior at Brown University; right now, my biggest CS interests are computer graphics, database systems, and deep learning. In my spare time on holidays, I'm also an avid astrophotographer ✨. You can find out more about me on my personal website, [tanishmakadia.com](https://tanishmakadia.com).
 
